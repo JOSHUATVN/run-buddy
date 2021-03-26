@@ -12,3 +12,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Joshua Nguyen
+### ©️2019 Run Buddy, Inc
